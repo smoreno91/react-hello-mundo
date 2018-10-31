@@ -1,0 +1,21 @@
+.nav-link img {
+    margin-left: 15px;
+}
+#main {
+    margin-top: 70px;
+    padding: 0px 30px;
+}
+#main img {
+	margin: 10px auto;
+	display: block;
+}
+.header {
+	color: red;
+	font-size: 32px;
+	text-align: center;
+}
+.content {
+	color: black
+	font-size: 15px;
+	text-align: justify;
+}

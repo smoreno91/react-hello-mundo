@@ -1,0 +1,6 @@
+var car2 = React.createElement('div', null,
+  React.createElement('h1', { className: 'header' }, 'Car 2'),
+  React.createElement('img', {alt: 'Car 2', src: 'img/car-2.jpg'}),
+  React.createElement('p', { className: 'content'}, 'Ut porta condimentum odio, non scelerisque dolor aliquet ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam a ligula eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec facilisis commodo imperdiet. Pellentesque suscipit ante arcu, ut scelerisque sem tempus et. Nam sed nulla mattis, iaculis risus quis, ultricies magna. Sed tristique, felis id ullamcorper aliquam, est odio tincidunt nibh, in luctus justo ante sed enim. Suspendisse ut tellus sed neque varius suscipit quis eget neque. Sed sollicitudin lacus a sem sodales faucibus. Fusce tempor mi quis justo tincidunt, et pellentesque turpis sagittis. Quisque non felis sit amet nisi posuere gravida id eu mauris. Maecenas maximus tincidunt turpis, et malesuada orci lacinia lacinia.'),
+); 
+ReactDOM.render(car2, document.getElementById('main'));
